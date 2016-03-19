@@ -1,0 +1,21 @@
+{
+  "name": "cs5224",
+  "version": "0.1.0",
+  "description": "A simple node server using Koa",
+  "scripts": {
+    "deploy": "cf push",
+    "start": "node lib/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zillding/cs5224.git"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^1.2.0",
+    "koa-logger": "^1.3.0",
+    "koa-route": "^2.4.2",
+    "koa-send": "^3.1.1",
+    "koa-static": "^2.0.0"
+  }
+}

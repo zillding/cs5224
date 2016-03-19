@@ -1,0 +1,15 @@
+applications:
+# the URL for the application will be <host>.<domain>
+# in this example, that's bonjourrobphippen.ng.bluemix.net
+# To ensure a unique URL for your app, change the host to bonjourYOURNAME
+- host: zillding
+  # this is the domain for codename:bluemix
+  domain: mybluemix.net
+  # the name of the application that you will see if you type 'cf apps'
+  name: HelloWorld
+  # look for the files to 'push' in the current directory
+  path: .
+  # run this command to initiate the application
+  command: node lib/index.js
+  # create 1 server instance
+  instances: 1
