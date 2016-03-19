@@ -8,6 +8,7 @@ Waiting time on different hospitals in Singapore
 $ git clone https://github.com/zillding/cs5224.git
 $ cd cs5224
 $ npm install
+$ npm run build
 $ npm start
 ```
 
@@ -17,7 +18,7 @@ Open `http://localhost:3000` to see the results.
 
 All server related code is in `lib` which is based on [koa](http://koajs.com/)
 
-All frontend app code is in `src`. The app is written in [react](https://facebook.github.io/react/)
+All frontend app code is in `lib/src`. The app is written in [react](https://facebook.github.io/react/)
 and during development time, simply run
 
 `$ npm run dev`
