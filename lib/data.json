@@ -20,5 +20,27 @@
       "NTFGH": 1.8,
       "KTPH": 3.6
     }
+  },
+  {
+    "date": "2016/03/01",
+    "waitingTime": {
+      "TTSH": 6.0,
+      "CGH": 1.8,
+      "SGH": 4.9,
+      "NUH": 0.5,
+      "NTFGH": 2.1,
+      "KTPH": 4.5
+    }
+  },
+  {
+    "date": "2016/03/02",
+    "waitingTime": {
+      "TTSH": 4.0,
+      "CGH": 2.4,
+      "SGH": 5.1,
+      "NUH": 1.5,
+      "NTFGH": 1.9,
+      "KTPH": 9.6
+    }
   }
 ]
