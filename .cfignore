@@ -3,3 +3,4 @@ lib/src
 webpack.config.*
 devServer.js
 .babelrc
+scripts

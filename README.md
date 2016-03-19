@@ -44,3 +44,13 @@ If use [cloudfoundry](https://github.com/cloudfoundry/cli/releases), simply run
 ```bash
 $ cf push
 ```
+
+### Generate json data
+
+`$ npm run data [optional/path/to/csv/file]`
+
+The default csv data file is `/scripts/data.csv`.
+
+The output json file is in `/lib/data.json`
+
+note: this should be replaced by db connection in the future

@@ -7,6 +7,7 @@
     "build:webpack": "cross-env NODE_ENV=production webpack --config webpack.config.prod.js",
     "build": "npm run clean && npm run build:webpack",
     "dev": "node devServer.js",
+    "data": "node scripts/parseCSV.js",
     "deploy": "npm run build && cf push",
     "start": "node lib/server.js"
   },
@@ -24,6 +25,7 @@
     "babel-preset-react-hmre": "^1.1.1",
     "cross-env": "^1.0.7",
     "eventsource-polyfill": "^0.9.6",
+    "fast-csv": "^1.0.0",
     "react": "^0.14.7",
     "react-dom": "^0.14.7",
     "react-echarts-component": "^0.1.0",
