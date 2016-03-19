@@ -1,7 +1,7 @@
 [
   {
     "date": "2016/02/28",
-    "watingTime": {
+    "waitingTime": {
       "TTSH": 3.9,
       "CGH": 1.2,
       "SGH": 1.7,
@@ -12,7 +12,7 @@
   },
   {
     "date": "2016/02/29",
-    "watingTime": {
+    "waitingTime": {
       "TTSH": 4.8,
       "CGH": 2.6,
       "SGH": 3.7,
