@@ -18,9 +18,8 @@ app.get('/api/data', function(req, res) {
 })
 
 // static files
-app.use(express.static(`${__dirname}/lib/public`))
 app.get('*', function(req, res) {
-  res.sendFile(`${__dirname}/public/index.html`)
+  res.sendFile(`${__dirname}/lib/public/index.html`)
 })
 
 app.listen(3000, function(err) {
