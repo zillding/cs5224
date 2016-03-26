@@ -21,16 +21,23 @@ All server related code is in `lib` which is based on [koa](http://koajs.com/)
 All frontend app code is in `lib/src`. The app is written in [react](https://facebook.github.io/react/)
 and during development time, simply run
 
-`$ npm run dev`
+`$ npm start` which is equivalent to `$ node devServer.js`
 
 to start a dev server with [react transform](https://github.com/gaearon/react-transform-boilerplate)
 (hot reloading) enabled.
 
 ### Build frontend app
 
-Make sure to build the frontend app before deployment.
+Make sure to build the frontend app static assets before deployment.
 
 `$ npm run build`
+
+### Test for Production
+
+Just run `$ npm run prod` which is equivalent to `$ node lib/index.js`
+
+note: this depends on the static assets built in previous step. Make sure to build
+the static assets with `$ npm run build` first.
 
 ### Deploy
 
