@@ -2,8 +2,9 @@ const express = require('express')
 const webpack = require('webpack')
 const config = require('./webpack.config.dev')
 
-const app = express()
 const compiler = webpack(config)
+
+const app = require('./lib/apiServer')
 
 app.use(require('webpack-dev-middleware')(compiler, {
   noInfo: true,
@@ -11,11 +12,6 @@ app.use(require('webpack-dev-middleware')(compiler, {
 }))
 
 app.use(require('webpack-hot-middleware')(compiler))
-
-// api
-app.get('/api/data', function(req, res) {
-  res.sendFile(`${__dirname}/lib/data.json`)
-})
 
 // static files
 app.get('*', function(req, res) {

@@ -10,6 +10,6 @@ applications:
   # look for the files to 'push' in the current directory
   path: .
   # run this command to initiate the application
-  command: node lib/server.js
+  command: node lib/index.js
   # create 1 server instance
   instances: 1
