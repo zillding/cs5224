@@ -46,11 +46,9 @@ This project is deployed on bluemix cloud platform
 A bluemix account need to be set up and `manifest.yml` file need to be properly
 modified.
 
-If use [cloudfoundry](https://github.com/cloudfoundry/cli/releases), simply run
+[cloudfoundry](https://github.com/cloudfoundry/cli/releases) need to be set up
 
-```bash
-$ cf push
-```
+`$ npm run deploy`
 
 ### Generate json data
 
