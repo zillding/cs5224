@@ -1,14 +1,18 @@
 const fs = require('fs')
 const csv = require('fast-csv')
 
-const INPUT_FILE_DIR = `${__dirname}/csv/enrolment`
-const OUTPUT_FILE_DIR = `${__dirname}/../lib/data/enrolment`
+const INPUT_FILE_DIR = `${__dirname}/csv`
+const OUTPUT_FILE_DIR = `${__dirname}/../lib/data`
 
 const files = ['hd', 'pad', 'pd', 'ufd']
-files.forEach(name => {
-  const input = `${INPUT_FILE_DIR}/${name}.csv`
-  const output = `${OUTPUT_FILE_DIR}/${name}.json`
-  convertToJson(input, output)
+const dirs = ['enrolment', 'graduates']
+
+dirs.forEach(dir => {
+  files.forEach(name => {
+    const input = `${INPUT_FILE_DIR}/${dir}/${name}.csv`
+    const output = `${OUTPUT_FILE_DIR}/${dir}/${name}.json`
+    convertToJson(input, output)
+  })
 })
 
 // convert a csv file to a json file
