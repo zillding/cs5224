@@ -12,7 +12,8 @@
     "Males: Information Technology": 1912,
     "Architecture & Building": 1808,
     "Engineering Sciences": 22917,
-    "Services": 293
+    "Services": 293,
+    "total": 38798
   },
   {
     "year": 1994,
@@ -27,7 +28,8 @@
     "Males: Information Technology": 2410,
     "Architecture & Building": 1899,
     "Engineering Sciences": 25287,
-    "Services": 340
+    "Services": 340,
+    "total": 42222
   },
   {
     "year": 1995,
@@ -42,7 +44,8 @@
     "Males: Information Technology": 3105,
     "Architecture & Building": 1949,
     "Engineering Sciences": 27079,
-    "Services": 382
+    "Services": 382,
+    "total": 46156
   },
   {
     "year": 1996,
@@ -57,7 +60,8 @@
     "Males: Information Technology": 3569,
     "Architecture & Building": 2047,
     "Engineering Sciences": 27831,
-    "Services": 295
+    "Services": 295,
+    "total": 49114
   },
   {
     "year": 1997,
@@ -72,7 +76,8 @@
     "Males: Information Technology": 4209,
     "Architecture & Building": 2011,
     "Engineering Sciences": 29240,
-    "Services": 412
+    "Services": 412,
+    "total": 51635
   },
   {
     "year": 1998,
@@ -87,7 +92,8 @@
     "Males: Information Technology": 5263,
     "Architecture & Building": 1859,
     "Engineering Sciences": 29139,
-    "Services": 429
+    "Services": 429,
+    "total": 53177
   },
   {
     "year": 1999,
@@ -102,7 +108,8 @@
     "Males: Information Technology": 6397,
     "Architecture & Building": 1810,
     "Engineering Sciences": 29089,
-    "Services": 547
+    "Services": 547,
+    "total": 54934
   },
   {
     "year": 2000,
@@ -117,7 +124,8 @@
     "Males: Information Technology": 7699,
     "Architecture & Building": 1662,
     "Engineering Sciences": 28449,
-    "Services": 602
+    "Services": 602,
+    "total": 56044
   },
   {
     "year": 2001,
@@ -132,7 +140,8 @@
     "Males: Information Technology": 9194,
     "Architecture & Building": 1590,
     "Engineering Sciences": 27729,
-    "Services": 616
+    "Services": 616,
+    "total": 57499
   },
   {
     "year": 2002,
@@ -147,7 +156,8 @@
     "Males: Information Technology": 11028,
     "Architecture & Building": 1519,
     "Engineering Sciences": 26884,
-    "Services": 673
+    "Services": 673,
+    "total": 59318
   },
   {
     "year": 2003,
@@ -162,7 +172,8 @@
     "Males: Information Technology": 11715,
     "Architecture & Building": 1413,
     "Engineering Sciences": 25942,
-    "Services": 685
+    "Services": 685,
+    "total": 59961
   },
   {
     "year": 2004,
@@ -177,7 +188,8 @@
     "Males: Information Technology": 11745,
     "Architecture & Building": 1421,
     "Engineering Sciences": 24714,
-    "Services": 734
+    "Services": 734,
+    "total": 60341
   },
   {
     "year": 2005,
@@ -192,7 +204,8 @@
     "Males: Information Technology": 12023,
     "Architecture & Building": 1466,
     "Engineering Sciences": 25328,
-    "Services": 711
+    "Services": 711,
+    "total": 63124
   },
   {
     "year": 2006,
@@ -207,7 +220,8 @@
     "Males: Information Technology": 11893,
     "Architecture & Building": 1622,
     "Engineering Sciences": 26176,
-    "Services": 675
+    "Services": 675,
+    "total": 66543
   },
   {
     "year": 2007,
@@ -222,7 +236,8 @@
     "Males: Information Technology": 12279,
     "Architecture & Building": 1696,
     "Engineering Sciences": 26935,
-    "Services": 865
+    "Services": 865,
+    "total": 70983
   },
   {
     "year": 2008,
@@ -237,7 +252,8 @@
     "Males: Information Technology": 12078,
     "Architecture & Building": 1774,
     "Engineering Sciences": 27011,
-    "Services": 964
+    "Services": 964,
+    "total": 74762
   },
   {
     "year": 2009,
@@ -252,7 +268,8 @@
     "Males: Information Technology": 12032,
     "Architecture & Building": 1819,
     "Engineering Sciences": 26845,
-    "Services": 1015
+    "Services": 1015,
+    "total": 78454
   },
   {
     "year": 2010,
@@ -267,7 +284,8 @@
     "Males: Information Technology": 11760,
     "Architecture & Building": 2018,
     "Engineering Sciences": 26332,
-    "Services": 1002
+    "Services": 1002,
+    "total": 80900
   },
   {
     "year": 2011,
@@ -282,7 +300,8 @@
     "Males: Information Technology": 11843,
     "Architecture & Building": 1880,
     "Engineering Sciences": 26172,
-    "Services": 1162
+    "Services": 1162,
+    "total": 81935
   },
   {
     "year": 2012,
@@ -297,7 +316,8 @@
     "Males: Information Technology": 11871,
     "Architecture & Building": 2088,
     "Engineering Sciences": 25724,
-    "Services": 1518
+    "Services": 1518,
+    "total": 82865
   },
   {
     "year": 2013,
@@ -312,7 +332,8 @@
     "Males: Information Technology": 11804,
     "Architecture & Building": 2296,
     "Engineering Sciences": 25811,
-    "Services": 1801
+    "Services": 1801,
+    "total": 84840
   },
   {
     "year": 2014,
@@ -327,6 +348,7 @@
     "Males: Information Technology": 11311,
     "Architecture & Building": 2339,
     "Engineering Sciences": 24325,
-    "Services": 2669
+    "Services": 2669,
+    "total": 84300
   }
 ]

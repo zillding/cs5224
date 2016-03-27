@@ -1,7 +1,7 @@
 [
   {
     "year": 1993,
-    "Total": 592,
+    "total": 592,
     "Education": 13,
     "Humanities & Social Sciences": 24,
     "Mass Communication": null,
@@ -17,7 +17,7 @@
   },
   {
     "year": 1994,
-    "Total": 950,
+    "total": 950,
     "Education": 16,
     "Humanities & Social Sciences": 56,
     "Mass Communication": null,
@@ -33,7 +33,7 @@
   },
   {
     "year": 1995,
-    "Total": 1103,
+    "total": 1103,
     "Education": 20,
     "Humanities & Social Sciences": 114,
     "Mass Communication": null,
@@ -49,7 +49,7 @@
   },
   {
     "year": 1996,
-    "Total": 1488,
+    "total": 1488,
     "Education": 17,
     "Humanities & Social Sciences": 141,
     "Mass Communication": 10,
@@ -65,7 +65,7 @@
   },
   {
     "year": 1997,
-    "Total": 1795,
+    "total": 1795,
     "Education": 21,
     "Humanities & Social Sciences": 132,
     "Mass Communication": 39,
@@ -81,7 +81,7 @@
   },
   {
     "year": 1998,
-    "Total": 2165,
+    "total": 2165,
     "Education": 21,
     "Humanities & Social Sciences": 159,
     "Mass Communication": 40,
@@ -97,7 +97,7 @@
   },
   {
     "year": 1999,
-    "Total": 2588,
+    "total": 2588,
     "Education": 36,
     "Humanities & Social Sciences": 216,
     "Mass Communication": 54,
@@ -113,7 +113,7 @@
   },
   {
     "year": 2000,
-    "Total": 3614,
+    "total": 3614,
     "Education": 35,
     "Humanities & Social Sciences": 308,
     "Mass Communication": 82,
@@ -129,7 +129,7 @@
   },
   {
     "year": 2001,
-    "Total": 4239,
+    "total": 4239,
     "Education": 42,
     "Humanities & Social Sciences": 479,
     "Mass Communication": 13,
@@ -145,7 +145,7 @@
   },
   {
     "year": 2002,
-    "Total": 4689,
+    "total": 4689,
     "Education": 45,
     "Humanities & Social Sciences": 480,
     "Mass Communication": 96,
@@ -161,7 +161,7 @@
   },
   {
     "year": 2003,
-    "Total": 4295,
+    "total": 4295,
     "Education": 54,
     "Humanities & Social Sciences": 503,
     "Mass Communication": 111,
@@ -177,7 +177,7 @@
   },
   {
     "year": 2004,
-    "Total": 4399,
+    "total": 4399,
     "Education": 94,
     "Humanities & Social Sciences": 481,
     "Mass Communication": 87,
@@ -193,7 +193,7 @@
   },
   {
     "year": 2005,
-    "Total": 5250,
+    "total": 5250,
     "Education": 168,
     "Humanities & Social Sciences": 474,
     "Mass Communication": 254,
@@ -209,7 +209,7 @@
   },
   {
     "year": 2006,
-    "Total": 5084,
+    "total": 5084,
     "Education": 146,
     "Humanities & Social Sciences": 561,
     "Mass Communication": 161,
@@ -225,7 +225,7 @@
   },
   {
     "year": 2007,
-    "Total": 5568,
+    "total": 5568,
     "Education": 239,
     "Humanities & Social Sciences": 627,
     "Mass Communication": 202,
@@ -241,7 +241,7 @@
   },
   {
     "year": 2008,
-    "Total": 5935,
+    "total": 5935,
     "Education": 276,
     "Humanities & Social Sciences": 546,
     "Mass Communication": 175,
@@ -257,7 +257,7 @@
   },
   {
     "year": 2009,
-    "Total": 6371,
+    "total": 6371,
     "Education": 423,
     "Humanities & Social Sciences": 604,
     "Mass Communication": 204,
@@ -273,7 +273,7 @@
   },
   {
     "year": 2010,
-    "Total": 6794,
+    "total": 6794,
     "Education": 543,
     "Humanities & Social Sciences": 677,
     "Mass Communication": 182,
@@ -289,7 +289,7 @@
   },
   {
     "year": 2011,
-    "Total": 6977,
+    "total": 6977,
     "Education": 561,
     "Humanities & Social Sciences": 731,
     "Mass Communication": 189,
@@ -305,7 +305,7 @@
   },
   {
     "year": 2012,
-    "Total": 7186,
+    "total": 7186,
     "Education": 459,
     "Humanities & Social Sciences": 732,
     "Mass Communication": 196,
@@ -321,7 +321,7 @@
   },
   {
     "year": 2013,
-    "Total": 7514,
+    "total": 7514,
     "Education": 561,
     "Humanities & Social Sciences": 739,
     "Mass Communication": 210,
@@ -337,7 +337,7 @@
   },
   {
     "year": 2014,
-    "Total": 7824,
+    "total": 7824,
     "Education": 531,
     "Humanities & Social Sciences": 855,
     "Mass Communication": 193,

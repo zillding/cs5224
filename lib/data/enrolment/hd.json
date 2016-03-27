@@ -12,7 +12,8 @@
     "Architecture & Building": 170,
     "Engineering Sciences": 1439,
     "Services": null,
-    "Others": null
+    "Others": null,
+    "total": 4095
   },
   {
     "year": 1994,
@@ -27,7 +28,8 @@
     "Architecture & Building": 301,
     "Engineering Sciences": 1629,
     "Services": 9,
-    "Others": null
+    "Others": null,
+    "total": 4805
   },
   {
     "year": 1995,
@@ -42,7 +44,8 @@
     "Architecture & Building": 360,
     "Engineering Sciences": 2085,
     "Services": 21,
-    "Others": null
+    "Others": null,
+    "total": 5535
   },
   {
     "year": 1996,
@@ -57,7 +60,8 @@
     "Architecture & Building": 355,
     "Engineering Sciences": 2596,
     "Services": 39,
-    "Others": null
+    "Others": null,
+    "total": 6410
   },
   {
     "year": 1997,
@@ -72,7 +76,8 @@
     "Architecture & Building": 454,
     "Engineering Sciences": 3378,
     "Services": 45,
-    "Others": null
+    "Others": null,
+    "total": 8047
   },
   {
     "year": 1998,
@@ -87,7 +92,8 @@
     "Architecture & Building": 563,
     "Engineering Sciences": 4532,
     "Services": 46,
-    "Others": null
+    "Others": null,
+    "total": 10240
   },
   {
     "year": 1999,
@@ -102,7 +108,8 @@
     "Architecture & Building": 640,
     "Engineering Sciences": 5551,
     "Services": 44,
-    "Others": null
+    "Others": null,
+    "total": 12759
   },
   {
     "year": 2000,
@@ -117,7 +124,8 @@
     "Architecture & Building": 617,
     "Engineering Sciences": 5724,
     "Services": 40,
-    "Others": null
+    "Others": null,
+    "total": 12774
   },
   {
     "year": 2001,
@@ -132,7 +140,8 @@
     "Architecture & Building": 665,
     "Engineering Sciences": 5791,
     "Services": 45,
-    "Others": null
+    "Others": null,
+    "total": 13415
   },
   {
     "year": 2002,
@@ -147,7 +156,8 @@
     "Architecture & Building": 618,
     "Engineering Sciences": 6496,
     "Services": 49,
-    "Others": null
+    "Others": null,
+    "total": 14236
   },
   {
     "year": 2003,
@@ -162,7 +172,8 @@
     "Architecture & Building": 589,
     "Engineering Sciences": 6473,
     "Services": 51,
-    "Others": null
+    "Others": null,
+    "total": 14380
   },
   {
     "year": 2004,
@@ -177,7 +188,8 @@
     "Architecture & Building": 535,
     "Engineering Sciences": 6307,
     "Services": 58,
-    "Others": null
+    "Others": null,
+    "total": 14639
   },
   {
     "year": 2005,
@@ -192,7 +204,8 @@
     "Architecture & Building": 456,
     "Engineering Sciences": 6211,
     "Services": 99,
-    "Others": 21
+    "Others": 21,
+    "total": 14958
   },
   {
     "year": 2006,
@@ -207,7 +220,8 @@
     "Architecture & Building": 478,
     "Engineering Sciences": 5883,
     "Services": 228,
-    "Others": 25
+    "Others": 25,
+    "total": 16282
   },
   {
     "year": 2007,
@@ -222,7 +236,8 @@
     "Architecture & Building": 497,
     "Engineering Sciences": 5885,
     "Services": 223,
-    "Others": 27
+    "Others": 27,
+    "total": 17059
   },
   {
     "year": 2008,
@@ -237,7 +252,8 @@
     "Architecture & Building": 500,
     "Engineering Sciences": 6106,
     "Services": 204,
-    "Others": 33
+    "Others": 33,
+    "total": 18719
   },
   {
     "year": 2009,
@@ -252,7 +268,8 @@
     "Architecture & Building": 545,
     "Engineering Sciences": 6492,
     "Services": 212,
-    "Others": 24
+    "Others": 24,
+    "total": 19483
   },
   {
     "year": 2010,
@@ -267,7 +284,8 @@
     "Architecture & Building": 581,
     "Engineering Sciences": 6354,
     "Services": 190,
-    "Others": 6
+    "Others": 6,
+    "total": 19566
   },
   {
     "year": 2011,
@@ -282,7 +300,8 @@
     "Architecture & Building": 588,
     "Engineering Sciences": 6151,
     "Services": 191,
-    "Others": 7
+    "Others": 7,
+    "total": 19289
   },
   {
     "year": 2012,
@@ -297,7 +316,8 @@
     "Architecture & Building": 590,
     "Engineering Sciences": 6119,
     "Services": 179,
-    "Others": 13
+    "Others": 13,
+    "total": 19040
   },
   {
     "year": 2013,
@@ -312,7 +332,8 @@
     "Architecture & Building": 489,
     "Engineering Sciences": 6229,
     "Services": 105,
-    "Others": 12
+    "Others": 12,
+    "total": 19104
   },
   {
     "year": 2014,
@@ -327,6 +348,7 @@
     "Architecture & Building": 466,
     "Engineering Sciences": 6059,
     "Services": 104,
-    "Others": 27
+    "Others": 27,
+    "total": 19176
   }
 ]

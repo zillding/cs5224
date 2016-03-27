@@ -10,7 +10,8 @@
     "Information Technology": 493,
     "Architecture & Building": 178,
     "Engineering Sciences": 778,
-    "Services": null
+    "Services": null,
+    "total": 1696
   },
   {
     "year": 1994,
@@ -23,7 +24,8 @@
     "Information Technology": 266,
     "Architecture & Building": 235,
     "Engineering Sciences": 531,
-    "Services": null
+    "Services": null,
+    "total": 1350
   },
   {
     "year": 1995,
@@ -36,7 +38,8 @@
     "Information Technology": 205,
     "Architecture & Building": 211,
     "Engineering Sciences": 540,
-    "Services": 14
+    "Services": 14,
+    "total": 1605
   },
   {
     "year": 1996,
@@ -49,7 +52,8 @@
     "Information Technology": 257,
     "Architecture & Building": 168,
     "Engineering Sciences": 644,
-    "Services": 46
+    "Services": 46,
+    "total": 2072
   },
   {
     "year": 1997,
@@ -62,7 +66,8 @@
     "Information Technology": 340,
     "Architecture & Building": 104,
     "Engineering Sciences": 727,
-    "Services": 69
+    "Services": 69,
+    "total": 2020
   },
   {
     "year": 1998,
@@ -75,7 +80,8 @@
     "Information Technology": 418,
     "Architecture & Building": 56,
     "Engineering Sciences": 794,
-    "Services": 64
+    "Services": 64,
+    "total": 2028
   },
   {
     "year": 1999,
@@ -88,7 +94,8 @@
     "Information Technology": 538,
     "Architecture & Building": 18,
     "Engineering Sciences": 738,
-    "Services": 113
+    "Services": 113,
+    "total": 2192
   },
   {
     "year": 2000,
@@ -101,7 +108,8 @@
     "Information Technology": 796,
     "Architecture & Building": null,
     "Engineering Sciences": 653,
-    "Services": 179
+    "Services": 179,
+    "total": 2328
   },
   {
     "year": 2001,
@@ -114,7 +122,8 @@
     "Information Technology": 628,
     "Architecture & Building": 20,
     "Engineering Sciences": 796,
-    "Services": 168
+    "Services": 168,
+    "total": 2307
   },
   {
     "year": 2002,
@@ -127,7 +136,8 @@
     "Information Technology": 519,
     "Architecture & Building": 19,
     "Engineering Sciences": 1061,
-    "Services": 112
+    "Services": 112,
+    "total": 2433
   },
   {
     "year": 2003,
@@ -140,7 +150,8 @@
     "Information Technology": 455,
     "Architecture & Building": 18,
     "Engineering Sciences": 1041,
-    "Services": 64
+    "Services": 64,
+    "total": 2178
   },
   {
     "year": 2004,
@@ -153,7 +164,8 @@
     "Information Technology": 202,
     "Architecture & Building": 0,
     "Engineering Sciences": 671,
-    "Services": 38
+    "Services": 38,
+    "total": 1690
   },
   {
     "year": 2005,
@@ -166,7 +178,8 @@
     "Information Technology": 107,
     "Architecture & Building": 21,
     "Engineering Sciences": 442,
-    "Services": 27
+    "Services": 27,
+    "total": 1298
   },
   {
     "year": 2006,
@@ -179,7 +192,8 @@
     "Information Technology": 82,
     "Architecture & Building": 7,
     "Engineering Sciences": 387,
-    "Services": 25
+    "Services": 25,
+    "total": 1148
   },
   {
     "year": 2007,
@@ -192,7 +206,8 @@
     "Information Technology": 105,
     "Architecture & Building": 0,
     "Engineering Sciences": 495,
-    "Services": 82
+    "Services": 82,
+    "total": 1417
   },
   {
     "year": 2008,
@@ -205,7 +220,8 @@
     "Information Technology": 171,
     "Architecture & Building": 22,
     "Engineering Sciences": 449,
-    "Services": 57
+    "Services": 57,
+    "total": 2044
   },
   {
     "year": 2009,
@@ -218,7 +234,8 @@
     "Information Technology": 206,
     "Architecture & Building": 45,
     "Engineering Sciences": 424,
-    "Services": 54
+    "Services": 54,
+    "total": 2242
   },
   {
     "year": 2010,
@@ -231,7 +248,8 @@
     "Information Technology": 302,
     "Architecture & Building": 36,
     "Engineering Sciences": 492,
-    "Services": 52
+    "Services": 52,
+    "total": 2642
   },
   {
     "year": 2011,
@@ -244,7 +262,8 @@
     "Information Technology": 313,
     "Architecture & Building": 35,
     "Engineering Sciences": 482,
-    "Services": 58
+    "Services": 58,
+    "total": 3053
   },
   {
     "year": 2012,
@@ -257,7 +276,8 @@
     "Information Technology": 288,
     "Architecture & Building": 42,
     "Engineering Sciences": 427,
-    "Services": 65
+    "Services": 65,
+    "total": 3151
   },
   {
     "year": 2013,
@@ -270,7 +290,8 @@
     "Information Technology": 415,
     "Architecture & Building": 37,
     "Engineering Sciences": 222,
-    "Services": 58
+    "Services": 58,
+    "total": 2945
   },
   {
     "year": 2014,
@@ -283,6 +304,7 @@
     "Information Technology": 572,
     "Architecture & Building": 62,
     "Engineering Sciences": 439,
-    "Services": 5
+    "Services": 5,
+    "total": 3336
   }
 ]

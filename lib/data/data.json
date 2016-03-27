@@ -14,7 +14,8 @@
         "Architecture & Building": 170,
         "Engineering Sciences": 1439,
         "Services": null,
-        "Others": null
+        "Others": null,
+        "total": 4095
       },
       {
         "year": 1994,
@@ -29,7 +30,8 @@
         "Architecture & Building": 301,
         "Engineering Sciences": 1629,
         "Services": 9,
-        "Others": null
+        "Others": null,
+        "total": 4805
       },
       {
         "year": 1995,
@@ -44,7 +46,8 @@
         "Architecture & Building": 360,
         "Engineering Sciences": 2085,
         "Services": 21,
-        "Others": null
+        "Others": null,
+        "total": 5535
       },
       {
         "year": 1996,
@@ -59,7 +62,8 @@
         "Architecture & Building": 355,
         "Engineering Sciences": 2596,
         "Services": 39,
-        "Others": null
+        "Others": null,
+        "total": 6410
       },
       {
         "year": 1997,
@@ -74,7 +78,8 @@
         "Architecture & Building": 454,
         "Engineering Sciences": 3378,
         "Services": 45,
-        "Others": null
+        "Others": null,
+        "total": 8047
       },
       {
         "year": 1998,
@@ -89,7 +94,8 @@
         "Architecture & Building": 563,
         "Engineering Sciences": 4532,
         "Services": 46,
-        "Others": null
+        "Others": null,
+        "total": 10240
       },
       {
         "year": 1999,
@@ -104,7 +110,8 @@
         "Architecture & Building": 640,
         "Engineering Sciences": 5551,
         "Services": 44,
-        "Others": null
+        "Others": null,
+        "total": 12759
       },
       {
         "year": 2000,
@@ -119,7 +126,8 @@
         "Architecture & Building": 617,
         "Engineering Sciences": 5724,
         "Services": 40,
-        "Others": null
+        "Others": null,
+        "total": 12774
       },
       {
         "year": 2001,
@@ -134,7 +142,8 @@
         "Architecture & Building": 665,
         "Engineering Sciences": 5791,
         "Services": 45,
-        "Others": null
+        "Others": null,
+        "total": 13415
       },
       {
         "year": 2002,
@@ -149,7 +158,8 @@
         "Architecture & Building": 618,
         "Engineering Sciences": 6496,
         "Services": 49,
-        "Others": null
+        "Others": null,
+        "total": 14236
       },
       {
         "year": 2003,
@@ -164,7 +174,8 @@
         "Architecture & Building": 589,
         "Engineering Sciences": 6473,
         "Services": 51,
-        "Others": null
+        "Others": null,
+        "total": 14380
       },
       {
         "year": 2004,
@@ -179,7 +190,8 @@
         "Architecture & Building": 535,
         "Engineering Sciences": 6307,
         "Services": 58,
-        "Others": null
+        "Others": null,
+        "total": 14639
       },
       {
         "year": 2005,
@@ -194,7 +206,8 @@
         "Architecture & Building": 456,
         "Engineering Sciences": 6211,
         "Services": 99,
-        "Others": 21
+        "Others": 21,
+        "total": 14958
       },
       {
         "year": 2006,
@@ -209,7 +222,8 @@
         "Architecture & Building": 478,
         "Engineering Sciences": 5883,
         "Services": 228,
-        "Others": 25
+        "Others": 25,
+        "total": 16282
       },
       {
         "year": 2007,
@@ -224,7 +238,8 @@
         "Architecture & Building": 497,
         "Engineering Sciences": 5885,
         "Services": 223,
-        "Others": 27
+        "Others": 27,
+        "total": 17059
       },
       {
         "year": 2008,
@@ -239,7 +254,8 @@
         "Architecture & Building": 500,
         "Engineering Sciences": 6106,
         "Services": 204,
-        "Others": 33
+        "Others": 33,
+        "total": 18719
       },
       {
         "year": 2009,
@@ -254,7 +270,8 @@
         "Architecture & Building": 545,
         "Engineering Sciences": 6492,
         "Services": 212,
-        "Others": 24
+        "Others": 24,
+        "total": 19483
       },
       {
         "year": 2010,
@@ -269,7 +286,8 @@
         "Architecture & Building": 581,
         "Engineering Sciences": 6354,
         "Services": 190,
-        "Others": 6
+        "Others": 6,
+        "total": 19566
       },
       {
         "year": 2011,
@@ -284,7 +302,8 @@
         "Architecture & Building": 588,
         "Engineering Sciences": 6151,
         "Services": 191,
-        "Others": 7
+        "Others": 7,
+        "total": 19289
       },
       {
         "year": 2012,
@@ -299,7 +318,8 @@
         "Architecture & Building": 590,
         "Engineering Sciences": 6119,
         "Services": 179,
-        "Others": 13
+        "Others": 13,
+        "total": 19040
       },
       {
         "year": 2013,
@@ -314,7 +334,8 @@
         "Architecture & Building": 489,
         "Engineering Sciences": 6229,
         "Services": 105,
-        "Others": 12
+        "Others": 12,
+        "total": 19104
       },
       {
         "year": 2014,
@@ -329,7 +350,8 @@
         "Architecture & Building": 466,
         "Engineering Sciences": 6059,
         "Services": 104,
-        "Others": 27
+        "Others": 27,
+        "total": 19176
       }
     ],
     "ufd": [
@@ -802,7 +824,8 @@
         "Information Technology": 493,
         "Architecture & Building": 178,
         "Engineering Sciences": 778,
-        "Services": null
+        "Services": null,
+        "total": 1696
       },
       {
         "year": 1994,
@@ -815,7 +838,8 @@
         "Information Technology": 266,
         "Architecture & Building": 235,
         "Engineering Sciences": 531,
-        "Services": null
+        "Services": null,
+        "total": 1350
       },
       {
         "year": 1995,
@@ -828,7 +852,8 @@
         "Information Technology": 205,
         "Architecture & Building": 211,
         "Engineering Sciences": 540,
-        "Services": 14
+        "Services": 14,
+        "total": 1605
       },
       {
         "year": 1996,
@@ -841,7 +866,8 @@
         "Information Technology": 257,
         "Architecture & Building": 168,
         "Engineering Sciences": 644,
-        "Services": 46
+        "Services": 46,
+        "total": 2072
       },
       {
         "year": 1997,
@@ -854,7 +880,8 @@
         "Information Technology": 340,
         "Architecture & Building": 104,
         "Engineering Sciences": 727,
-        "Services": 69
+        "Services": 69,
+        "total": 2020
       },
       {
         "year": 1998,
@@ -867,7 +894,8 @@
         "Information Technology": 418,
         "Architecture & Building": 56,
         "Engineering Sciences": 794,
-        "Services": 64
+        "Services": 64,
+        "total": 2028
       },
       {
         "year": 1999,
@@ -880,7 +908,8 @@
         "Information Technology": 538,
         "Architecture & Building": 18,
         "Engineering Sciences": 738,
-        "Services": 113
+        "Services": 113,
+        "total": 2192
       },
       {
         "year": 2000,
@@ -893,7 +922,8 @@
         "Information Technology": 796,
         "Architecture & Building": null,
         "Engineering Sciences": 653,
-        "Services": 179
+        "Services": 179,
+        "total": 2328
       },
       {
         "year": 2001,
@@ -906,7 +936,8 @@
         "Information Technology": 628,
         "Architecture & Building": 20,
         "Engineering Sciences": 796,
-        "Services": 168
+        "Services": 168,
+        "total": 2307
       },
       {
         "year": 2002,
@@ -919,7 +950,8 @@
         "Information Technology": 519,
         "Architecture & Building": 19,
         "Engineering Sciences": 1061,
-        "Services": 112
+        "Services": 112,
+        "total": 2433
       },
       {
         "year": 2003,
@@ -932,7 +964,8 @@
         "Information Technology": 455,
         "Architecture & Building": 18,
         "Engineering Sciences": 1041,
-        "Services": 64
+        "Services": 64,
+        "total": 2178
       },
       {
         "year": 2004,
@@ -945,7 +978,8 @@
         "Information Technology": 202,
         "Architecture & Building": 0,
         "Engineering Sciences": 671,
-        "Services": 38
+        "Services": 38,
+        "total": 1690
       },
       {
         "year": 2005,
@@ -958,7 +992,8 @@
         "Information Technology": 107,
         "Architecture & Building": 21,
         "Engineering Sciences": 442,
-        "Services": 27
+        "Services": 27,
+        "total": 1298
       },
       {
         "year": 2006,
@@ -971,7 +1006,8 @@
         "Information Technology": 82,
         "Architecture & Building": 7,
         "Engineering Sciences": 387,
-        "Services": 25
+        "Services": 25,
+        "total": 1148
       },
       {
         "year": 2007,
@@ -984,7 +1020,8 @@
         "Information Technology": 105,
         "Architecture & Building": 0,
         "Engineering Sciences": 495,
-        "Services": 82
+        "Services": 82,
+        "total": 1417
       },
       {
         "year": 2008,
@@ -997,7 +1034,8 @@
         "Information Technology": 171,
         "Architecture & Building": 22,
         "Engineering Sciences": 449,
-        "Services": 57
+        "Services": 57,
+        "total": 2044
       },
       {
         "year": 2009,
@@ -1010,7 +1048,8 @@
         "Information Technology": 206,
         "Architecture & Building": 45,
         "Engineering Sciences": 424,
-        "Services": 54
+        "Services": 54,
+        "total": 2242
       },
       {
         "year": 2010,
@@ -1023,7 +1062,8 @@
         "Information Technology": 302,
         "Architecture & Building": 36,
         "Engineering Sciences": 492,
-        "Services": 52
+        "Services": 52,
+        "total": 2642
       },
       {
         "year": 2011,
@@ -1036,7 +1076,8 @@
         "Information Technology": 313,
         "Architecture & Building": 35,
         "Engineering Sciences": 482,
-        "Services": 58
+        "Services": 58,
+        "total": 3053
       },
       {
         "year": 2012,
@@ -1049,7 +1090,8 @@
         "Information Technology": 288,
         "Architecture & Building": 42,
         "Engineering Sciences": 427,
-        "Services": 65
+        "Services": 65,
+        "total": 3151
       },
       {
         "year": 2013,
@@ -1062,7 +1104,8 @@
         "Information Technology": 415,
         "Architecture & Building": 37,
         "Engineering Sciences": 222,
-        "Services": 58
+        "Services": 58,
+        "total": 2945
       },
       {
         "year": 2014,
@@ -1075,7 +1118,8 @@
         "Information Technology": 572,
         "Architecture & Building": 62,
         "Engineering Sciences": 439,
-        "Services": 5
+        "Services": 5,
+        "total": 3336
       }
     ],
     "pd": [
@@ -1092,7 +1136,8 @@
         "Males: Information Technology": 1912,
         "Architecture & Building": 1808,
         "Engineering Sciences": 22917,
-        "Services": 293
+        "Services": 293,
+        "total": 38798
       },
       {
         "year": 1994,
@@ -1107,7 +1152,8 @@
         "Males: Information Technology": 2410,
         "Architecture & Building": 1899,
         "Engineering Sciences": 25287,
-        "Services": 340
+        "Services": 340,
+        "total": 42222
       },
       {
         "year": 1995,
@@ -1122,7 +1168,8 @@
         "Males: Information Technology": 3105,
         "Architecture & Building": 1949,
         "Engineering Sciences": 27079,
-        "Services": 382
+        "Services": 382,
+        "total": 46156
       },
       {
         "year": 1996,
@@ -1137,7 +1184,8 @@
         "Males: Information Technology": 3569,
         "Architecture & Building": 2047,
         "Engineering Sciences": 27831,
-        "Services": 295
+        "Services": 295,
+        "total": 49114
       },
       {
         "year": 1997,
@@ -1152,7 +1200,8 @@
         "Males: Information Technology": 4209,
         "Architecture & Building": 2011,
         "Engineering Sciences": 29240,
-        "Services": 412
+        "Services": 412,
+        "total": 51635
       },
       {
         "year": 1998,
@@ -1167,7 +1216,8 @@
         "Males: Information Technology": 5263,
         "Architecture & Building": 1859,
         "Engineering Sciences": 29139,
-        "Services": 429
+        "Services": 429,
+        "total": 53177
       },
       {
         "year": 1999,
@@ -1182,7 +1232,8 @@
         "Males: Information Technology": 6397,
         "Architecture & Building": 1810,
         "Engineering Sciences": 29089,
-        "Services": 547
+        "Services": 547,
+        "total": 54934
       },
       {
         "year": 2000,
@@ -1197,7 +1248,8 @@
         "Males: Information Technology": 7699,
         "Architecture & Building": 1662,
         "Engineering Sciences": 28449,
-        "Services": 602
+        "Services": 602,
+        "total": 56044
       },
       {
         "year": 2001,
@@ -1212,7 +1264,8 @@
         "Males: Information Technology": 9194,
         "Architecture & Building": 1590,
         "Engineering Sciences": 27729,
-        "Services": 616
+        "Services": 616,
+        "total": 57499
       },
       {
         "year": 2002,
@@ -1227,7 +1280,8 @@
         "Males: Information Technology": 11028,
         "Architecture & Building": 1519,
         "Engineering Sciences": 26884,
-        "Services": 673
+        "Services": 673,
+        "total": 59318
       },
       {
         "year": 2003,
@@ -1242,7 +1296,8 @@
         "Males: Information Technology": 11715,
         "Architecture & Building": 1413,
         "Engineering Sciences": 25942,
-        "Services": 685
+        "Services": 685,
+        "total": 59961
       },
       {
         "year": 2004,
@@ -1257,7 +1312,8 @@
         "Males: Information Technology": 11745,
         "Architecture & Building": 1421,
         "Engineering Sciences": 24714,
-        "Services": 734
+        "Services": 734,
+        "total": 60341
       },
       {
         "year": 2005,
@@ -1272,7 +1328,8 @@
         "Males: Information Technology": 12023,
         "Architecture & Building": 1466,
         "Engineering Sciences": 25328,
-        "Services": 711
+        "Services": 711,
+        "total": 63124
       },
       {
         "year": 2006,
@@ -1287,7 +1344,8 @@
         "Males: Information Technology": 11893,
         "Architecture & Building": 1622,
         "Engineering Sciences": 26176,
-        "Services": 675
+        "Services": 675,
+        "total": 66543
       },
       {
         "year": 2007,
@@ -1302,7 +1360,8 @@
         "Males: Information Technology": 12279,
         "Architecture & Building": 1696,
         "Engineering Sciences": 26935,
-        "Services": 865
+        "Services": 865,
+        "total": 70983
       },
       {
         "year": 2008,
@@ -1317,7 +1376,8 @@
         "Males: Information Technology": 12078,
         "Architecture & Building": 1774,
         "Engineering Sciences": 27011,
-        "Services": 964
+        "Services": 964,
+        "total": 74762
       },
       {
         "year": 2009,
@@ -1332,7 +1392,8 @@
         "Males: Information Technology": 12032,
         "Architecture & Building": 1819,
         "Engineering Sciences": 26845,
-        "Services": 1015
+        "Services": 1015,
+        "total": 78454
       },
       {
         "year": 2010,
@@ -1347,7 +1408,8 @@
         "Males: Information Technology": 11760,
         "Architecture & Building": 2018,
         "Engineering Sciences": 26332,
-        "Services": 1002
+        "Services": 1002,
+        "total": 80900
       },
       {
         "year": 2011,
@@ -1362,7 +1424,8 @@
         "Males: Information Technology": 11843,
         "Architecture & Building": 1880,
         "Engineering Sciences": 26172,
-        "Services": 1162
+        "Services": 1162,
+        "total": 81935
       },
       {
         "year": 2012,
@@ -1377,7 +1440,8 @@
         "Males: Information Technology": 11871,
         "Architecture & Building": 2088,
         "Engineering Sciences": 25724,
-        "Services": 1518
+        "Services": 1518,
+        "total": 82865
       },
       {
         "year": 2013,
@@ -1392,7 +1456,8 @@
         "Males: Information Technology": 11804,
         "Architecture & Building": 2296,
         "Engineering Sciences": 25811,
-        "Services": 1801
+        "Services": 1801,
+        "total": 84840
       },
       {
         "year": 2014,
@@ -1407,7 +1472,8 @@
         "Males: Information Technology": 11311,
         "Architecture & Building": 2339,
         "Engineering Sciences": 24325,
-        "Services": 2669
+        "Services": 2669,
+        "total": 84300
       }
     ]
   },
@@ -1415,7 +1481,7 @@
     "hd": [
       {
         "year": 1993,
-        "Total": 592,
+        "total": 592,
         "Education": 13,
         "Humanities & Social Sciences": 24,
         "Mass Communication": null,
@@ -1431,7 +1497,7 @@
       },
       {
         "year": 1994,
-        "Total": 950,
+        "total": 950,
         "Education": 16,
         "Humanities & Social Sciences": 56,
         "Mass Communication": null,
@@ -1447,7 +1513,7 @@
       },
       {
         "year": 1995,
-        "Total": 1103,
+        "total": 1103,
         "Education": 20,
         "Humanities & Social Sciences": 114,
         "Mass Communication": null,
@@ -1463,7 +1529,7 @@
       },
       {
         "year": 1996,
-        "Total": 1488,
+        "total": 1488,
         "Education": 17,
         "Humanities & Social Sciences": 141,
         "Mass Communication": 10,
@@ -1479,7 +1545,7 @@
       },
       {
         "year": 1997,
-        "Total": 1795,
+        "total": 1795,
         "Education": 21,
         "Humanities & Social Sciences": 132,
         "Mass Communication": 39,
@@ -1495,7 +1561,7 @@
       },
       {
         "year": 1998,
-        "Total": 2165,
+        "total": 2165,
         "Education": 21,
         "Humanities & Social Sciences": 159,
         "Mass Communication": 40,
@@ -1511,7 +1577,7 @@
       },
       {
         "year": 1999,
-        "Total": 2588,
+        "total": 2588,
         "Education": 36,
         "Humanities & Social Sciences": 216,
         "Mass Communication": 54,
@@ -1527,7 +1593,7 @@
       },
       {
         "year": 2000,
-        "Total": 3614,
+        "total": 3614,
         "Education": 35,
         "Humanities & Social Sciences": 308,
         "Mass Communication": 82,
@@ -1543,7 +1609,7 @@
       },
       {
         "year": 2001,
-        "Total": 4239,
+        "total": 4239,
         "Education": 42,
         "Humanities & Social Sciences": 479,
         "Mass Communication": 13,
@@ -1559,7 +1625,7 @@
       },
       {
         "year": 2002,
-        "Total": 4689,
+        "total": 4689,
         "Education": 45,
         "Humanities & Social Sciences": 480,
         "Mass Communication": 96,
@@ -1575,7 +1641,7 @@
       },
       {
         "year": 2003,
-        "Total": 4295,
+        "total": 4295,
         "Education": 54,
         "Humanities & Social Sciences": 503,
         "Mass Communication": 111,
@@ -1591,7 +1657,7 @@
       },
       {
         "year": 2004,
-        "Total": 4399,
+        "total": 4399,
         "Education": 94,
         "Humanities & Social Sciences": 481,
         "Mass Communication": 87,
@@ -1607,7 +1673,7 @@
       },
       {
         "year": 2005,
-        "Total": 5250,
+        "total": 5250,
         "Education": 168,
         "Humanities & Social Sciences": 474,
         "Mass Communication": 254,
@@ -1623,7 +1689,7 @@
       },
       {
         "year": 2006,
-        "Total": 5084,
+        "total": 5084,
         "Education": 146,
         "Humanities & Social Sciences": 561,
         "Mass Communication": 161,
@@ -1639,7 +1705,7 @@
       },
       {
         "year": 2007,
-        "Total": 5568,
+        "total": 5568,
         "Education": 239,
         "Humanities & Social Sciences": 627,
         "Mass Communication": 202,
@@ -1655,7 +1721,7 @@
       },
       {
         "year": 2008,
-        "Total": 5935,
+        "total": 5935,
         "Education": 276,
         "Humanities & Social Sciences": 546,
         "Mass Communication": 175,
@@ -1671,7 +1737,7 @@
       },
       {
         "year": 2009,
-        "Total": 6371,
+        "total": 6371,
         "Education": 423,
         "Humanities & Social Sciences": 604,
         "Mass Communication": 204,
@@ -1687,7 +1753,7 @@
       },
       {
         "year": 2010,
-        "Total": 6794,
+        "total": 6794,
         "Education": 543,
         "Humanities & Social Sciences": 677,
         "Mass Communication": 182,
@@ -1703,7 +1769,7 @@
       },
       {
         "year": 2011,
-        "Total": 6977,
+        "total": 6977,
         "Education": 561,
         "Humanities & Social Sciences": 731,
         "Mass Communication": 189,
@@ -1719,7 +1785,7 @@
       },
       {
         "year": 2012,
-        "Total": 7186,
+        "total": 7186,
         "Education": 459,
         "Humanities & Social Sciences": 732,
         "Mass Communication": 196,
@@ -1735,7 +1801,7 @@
       },
       {
         "year": 2013,
-        "Total": 7514,
+        "total": 7514,
         "Education": 561,
         "Humanities & Social Sciences": 739,
         "Mass Communication": 210,
@@ -1751,7 +1817,7 @@
       },
       {
         "year": 2014,
-        "Total": 7824,
+        "total": 7824,
         "Education": 531,
         "Humanities & Social Sciences": 855,
         "Mass Communication": 193,
@@ -2189,7 +2255,7 @@
     "pad": [
       {
         "year": 1993,
-        "Total": 924,
+        "total": 924,
         "Education": null,
         "Applied Arts": null,
         "Humanities & Social Sciences": null,
@@ -2203,7 +2269,7 @@
       },
       {
         "year": 1994,
-        "Total": 795,
+        "total": 795,
         "Education": null,
         "Applied Arts": null,
         "Humanities & Social Sciences": null,
@@ -2217,7 +2283,7 @@
       },
       {
         "year": 1995,
-        "Total": 843,
+        "total": 843,
         "Education": null,
         "Applied Arts": null,
         "Humanities & Social Sciences": null,
@@ -2231,7 +2297,7 @@
       },
       {
         "year": 1996,
-        "Total": 654,
+        "total": 654,
         "Education": null,
         "Applied Arts": 23,
         "Humanities & Social Sciences": null,
@@ -2245,7 +2311,7 @@
       },
       {
         "year": 1997,
-        "Total": 956,
+        "total": 956,
         "Education": null,
         "Applied Arts": 0,
         "Humanities & Social Sciences": null,
@@ -2259,7 +2325,7 @@
       },
       {
         "year": 1998,
-        "Total": 1228,
+        "total": 1228,
         "Education": null,
         "Applied Arts": 44,
         "Humanities & Social Sciences": null,
@@ -2273,7 +2339,7 @@
       },
       {
         "year": 1999,
-        "Total": 1140,
+        "total": 1140,
         "Education": null,
         "Applied Arts": 1,
         "Humanities & Social Sciences": null,
@@ -2287,7 +2353,7 @@
       },
       {
         "year": 2000,
-        "Total": 1298,
+        "total": 1298,
         "Education": null,
         "Applied Arts": 27,
         "Humanities & Social Sciences": 15,
@@ -2301,7 +2367,7 @@
       },
       {
         "year": 2001,
-        "Total": 1558,
+        "total": 1558,
         "Education": null,
         "Applied Arts": 39,
         "Humanities & Social Sciences": 18,
@@ -2315,7 +2381,7 @@
       },
       {
         "year": 2002,
-        "Total": 1721,
+        "total": 1721,
         "Education": null,
         "Applied Arts": 1,
         "Humanities & Social Sciences": null,
@@ -2329,7 +2395,7 @@
       },
       {
         "year": 2003,
-        "Total": 1558,
+        "total": 1558,
         "Education": null,
         "Applied Arts": 6,
         "Humanities & Social Sciences": null,
@@ -2343,7 +2409,7 @@
       },
       {
         "year": 2004,
-        "Total": 1366,
+        "total": 1366,
         "Education": 27,
         "Applied Arts": 5,
         "Humanities & Social Sciences": null,
@@ -2357,7 +2423,7 @@
       },
       {
         "year": 2005,
-        "Total": 1303,
+        "total": 1303,
         "Education": 37,
         "Applied Arts": 9,
         "Humanities & Social Sciences": null,
@@ -2371,7 +2437,7 @@
       },
       {
         "year": 2006,
-        "Total": 1070,
+        "total": 1070,
         "Education": 18,
         "Applied Arts": 31,
         "Humanities & Social Sciences": null,
@@ -2385,7 +2451,7 @@
       },
       {
         "year": 2007,
-        "Total": 995,
+        "total": 995,
         "Education": 1,
         "Applied Arts": 50,
         "Humanities & Social Sciences": 26,
@@ -2399,7 +2465,7 @@
       },
       {
         "year": 2008,
-        "Total": 1152,
+        "total": 1152,
         "Education": 17,
         "Applied Arts": 15,
         "Humanities & Social Sciences": 2,
@@ -2413,7 +2479,7 @@
       },
       {
         "year": 2009,
-        "Total": 1765,
+        "total": 1765,
         "Education": 103,
         "Applied Arts": 17,
         "Humanities & Social Sciences": 25,
@@ -2427,7 +2493,7 @@
       },
       {
         "year": 2010,
-        "Total": 1766,
+        "total": 1766,
         "Education": 140,
         "Applied Arts": 19,
         "Humanities & Social Sciences": 24,
@@ -2441,7 +2507,7 @@
       },
       {
         "year": 2011,
-        "Total": 2258,
+        "total": 2258,
         "Education": 177,
         "Applied Arts": 51,
         "Humanities & Social Sciences": 60,
@@ -2455,7 +2521,7 @@
       },
       {
         "year": 2012,
-        "Total": 2063,
+        "total": 2063,
         "Education": 152,
         "Applied Arts": 43,
         "Humanities & Social Sciences": 66,
@@ -2469,7 +2535,7 @@
       },
       {
         "year": 2013,
-        "Total": 2012,
+        "total": 2012,
         "Education": 215,
         "Applied Arts": 16,
         "Humanities & Social Sciences": 56,
@@ -2483,7 +2549,7 @@
       },
       {
         "year": 2014,
-        "Total": 1610,
+        "total": 1610,
         "Education": 123,
         "Applied Arts": 12,
         "Humanities & Social Sciences": 50,

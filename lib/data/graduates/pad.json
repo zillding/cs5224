@@ -1,7 +1,7 @@
 [
   {
     "year": 1993,
-    "Total": 924,
+    "total": 924,
     "Education": null,
     "Applied Arts": null,
     "Humanities & Social Sciences": null,
@@ -15,7 +15,7 @@
   },
   {
     "year": 1994,
-    "Total": 795,
+    "total": 795,
     "Education": null,
     "Applied Arts": null,
     "Humanities & Social Sciences": null,
@@ -29,7 +29,7 @@
   },
   {
     "year": 1995,
-    "Total": 843,
+    "total": 843,
     "Education": null,
     "Applied Arts": null,
     "Humanities & Social Sciences": null,
@@ -43,7 +43,7 @@
   },
   {
     "year": 1996,
-    "Total": 654,
+    "total": 654,
     "Education": null,
     "Applied Arts": 23,
     "Humanities & Social Sciences": null,
@@ -57,7 +57,7 @@
   },
   {
     "year": 1997,
-    "Total": 956,
+    "total": 956,
     "Education": null,
     "Applied Arts": 0,
     "Humanities & Social Sciences": null,
@@ -71,7 +71,7 @@
   },
   {
     "year": 1998,
-    "Total": 1228,
+    "total": 1228,
     "Education": null,
     "Applied Arts": 44,
     "Humanities & Social Sciences": null,
@@ -85,7 +85,7 @@
   },
   {
     "year": 1999,
-    "Total": 1140,
+    "total": 1140,
     "Education": null,
     "Applied Arts": 1,
     "Humanities & Social Sciences": null,
@@ -99,7 +99,7 @@
   },
   {
     "year": 2000,
-    "Total": 1298,
+    "total": 1298,
     "Education": null,
     "Applied Arts": 27,
     "Humanities & Social Sciences": 15,
@@ -113,7 +113,7 @@
   },
   {
     "year": 2001,
-    "Total": 1558,
+    "total": 1558,
     "Education": null,
     "Applied Arts": 39,
     "Humanities & Social Sciences": 18,
@@ -127,7 +127,7 @@
   },
   {
     "year": 2002,
-    "Total": 1721,
+    "total": 1721,
     "Education": null,
     "Applied Arts": 1,
     "Humanities & Social Sciences": null,
@@ -141,7 +141,7 @@
   },
   {
     "year": 2003,
-    "Total": 1558,
+    "total": 1558,
     "Education": null,
     "Applied Arts": 6,
     "Humanities & Social Sciences": null,
@@ -155,7 +155,7 @@
   },
   {
     "year": 2004,
-    "Total": 1366,
+    "total": 1366,
     "Education": 27,
     "Applied Arts": 5,
     "Humanities & Social Sciences": null,
@@ -169,7 +169,7 @@
   },
   {
     "year": 2005,
-    "Total": 1303,
+    "total": 1303,
     "Education": 37,
     "Applied Arts": 9,
     "Humanities & Social Sciences": null,
@@ -183,7 +183,7 @@
   },
   {
     "year": 2006,
-    "Total": 1070,
+    "total": 1070,
     "Education": 18,
     "Applied Arts": 31,
     "Humanities & Social Sciences": null,
@@ -197,7 +197,7 @@
   },
   {
     "year": 2007,
-    "Total": 995,
+    "total": 995,
     "Education": 1,
     "Applied Arts": 50,
     "Humanities & Social Sciences": 26,
@@ -211,7 +211,7 @@
   },
   {
     "year": 2008,
-    "Total": 1152,
+    "total": 1152,
     "Education": 17,
     "Applied Arts": 15,
     "Humanities & Social Sciences": 2,
@@ -225,7 +225,7 @@
   },
   {
     "year": 2009,
-    "Total": 1765,
+    "total": 1765,
     "Education": 103,
     "Applied Arts": 17,
     "Humanities & Social Sciences": 25,
@@ -239,7 +239,7 @@
   },
   {
     "year": 2010,
-    "Total": 1766,
+    "total": 1766,
     "Education": 140,
     "Applied Arts": 19,
     "Humanities & Social Sciences": 24,
@@ -253,7 +253,7 @@
   },
   {
     "year": 2011,
-    "Total": 2258,
+    "total": 2258,
     "Education": 177,
     "Applied Arts": 51,
     "Humanities & Social Sciences": 60,
@@ -267,7 +267,7 @@
   },
   {
     "year": 2012,
-    "Total": 2063,
+    "total": 2063,
     "Education": 152,
     "Applied Arts": 43,
     "Humanities & Social Sciences": 66,
@@ -281,7 +281,7 @@
   },
   {
     "year": 2013,
-    "Total": 2012,
+    "total": 2012,
     "Education": 215,
     "Applied Arts": 16,
     "Humanities & Social Sciences": 56,
@@ -295,7 +295,7 @@
   },
   {
     "year": 2014,
-    "Total": 1610,
+    "total": 1610,
     "Education": 123,
     "Applied Arts": 12,
     "Humanities & Social Sciences": 50,
