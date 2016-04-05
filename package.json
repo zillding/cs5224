@@ -1,7 +1,7 @@
 {
   "name": "cs5224",
   "version": "0.1.0",
-  "description": "A simple node server using Koa",
+  "description": "NUS SoC CS5224 Assignment 2",
   "scripts": {
     "clean": "rimraf public/static",
     "build:webpack": "cross-env NODE_ENV=production webpack --config webpack.config.prod.js",

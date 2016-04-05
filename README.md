@@ -16,21 +16,25 @@ Open `http://localhost:3000` to see the results.
 
 ### Development
 
-All server related code is in `lib` which is based on [koa](http://koajs.com/)
+All server side code is in `lib`
 
 All frontend app code is in `lib/src`. The app is written in [react](https://facebook.github.io/react/)
 and during development time, simply run
 
-`$ npm start` which is equivalent to `$ node devServer.js`
+`$ npm start`
 
 to start a dev server with [react transform](https://github.com/gaearon/react-transform-boilerplate)
 (hot reloading) enabled.
+
+All server api can be accessed at `localhost:3000/api/...`
 
 ### Build frontend app
 
 Make sure to build the frontend app static assets before deployment.
 
 `$ npm run build`
+
+The static assests will be generated at `/lib/public/static`.
 
 ### Test for Production
 
@@ -52,10 +56,10 @@ modified.
 
 ### Generate json data
 
-`$ npm run data [optional/path/to/csv/file]`
+`$ npm run data`
 
-The default csv data file is `/scripts/data.csv`.
+The default csv data file is `/scripts/`.
 
-The output json file is in `/lib/data.json`
+The output json file is in `/lib/data/`
 
-note: this should be replaced by db connection in the future
+note: this should/could be replaced by db connection in the future
