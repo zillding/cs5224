@@ -1,6 +1,9 @@
 # NUS SoC CS5224 Assignment 2
 
-Waiting time on different hospitals in Singapore
+Trends in Education Courses Enrollment and Market Opportunities
+
+[Source Code](https://github.com/zillding/cs5224)
+[Demo](http://zillding.mybluemix.net/)
 
 ### Get Started
 
@@ -26,7 +29,20 @@ and during development time, simply run
 to start a dev server with [react transform](https://github.com/gaearon/react-transform-boilerplate)
 (hot reloading) enabled.
 
-All server api can be accessed at `localhost:3000/api/...`
+All server api can be accessed at `localhost:3000/api/${endpoint-name}`
+
+Currently supported endpoint names:
+
++ `data`
++ `jv`
++ `enrolment/hd`
++ `enrolment/pad`
++ `enrolment/pd`
++ `enrolment/ufd`
++ `graduates/hd`
++ `graduates/pad`
++ `graduates/pd`
++ `graduates/ufd`
 
 ### Build frontend app
 
