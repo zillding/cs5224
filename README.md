@@ -2,8 +2,9 @@
 
 Trends in Education Courses Enrollment and Market Opportunities
 
-[Source Code](https://github.com/zillding/cs5224)
-[Demo](http://zillding.mybluemix.net/)
+[Source Code](https://github.com/zillding/cs5224) on Github
+
+[Demo](http://zillding.mybluemix.net/) on IBM Bluemix
 
 ### Get Started
 
