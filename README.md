@@ -12,7 +12,6 @@ Trends in Education Courses Enrollment and Market Opportunities
 $ git clone https://github.com/zillding/cs5224.git
 $ cd cs5224
 $ npm install
-$ npm run build
 $ npm start
 ```
 
