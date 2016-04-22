@@ -15,7 +15,8 @@ $ npm install
 $ npm start
 ```
 
-Open `http://localhost:3000` to see the results.
+Open `http://localhost:3000` to see the results. (Make sure to see 'webpack built ...'
+which indicates it finished building)
 
 ### Development
 
