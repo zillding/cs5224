@@ -1,5 +1,7 @@
 # NUS SoC CS5224 Assignment 2
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zillding/cs5224.svg)](https://greenkeeper.io/)
+
 Trends in Education Courses Enrollment and Market Opportunities
 
 [Source Code](https://github.com/zillding/cs5224) on Github
